@@ -1,0 +1,22 @@
+/*
+ * main.h
+ *
+ *  Created on: Dec 15, 2023
+ *      Author: ADMIN
+ */
+
+#ifndef MAIN_H_
+#define MAIN_H_
+
+/* Systick clock */
+#define SYSTICK_TIM_CLK 16000000U
+
+/* Stack allocation */
+#define SRAM_END 0x3FFFFFFFU;
+#define NUM_OF_KB_EACH_TASK 1U;
+#define T1_STACK_START 		(SRAM_END - (0 * (NUM_OF_KB_EACH_TASK * 1024)))
+#define T2_STACK_START 		(SRAM_END - (1 * (NUM_OF_KB_EACH_TASK * 1024)))
+#define T3_STACK_START 		(SRAM_END - (2 * (NUM_OF_KB_EACH_TASK * 1024)))
+#define T4_STACK_START 		(SRAM_END - (3 * (NUM_OF_KB_EACH_TASK * 1024)))
+#define SCHED_STACK_START 	(SRAM_END - (4 * (NUM_OF_KB_EACH_TASK * 1024)))
+#endif /* MAIN_H_ */

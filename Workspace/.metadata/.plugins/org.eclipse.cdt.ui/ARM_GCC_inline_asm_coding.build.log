@@ -1,0 +1,10 @@
+02:22:36 **** Incremental Build of configuration Debug for project ARM_GCC_inline_asm_coding ****
+make -j8 all 
+arm-none-eabi-size   ARM_GCC_inline_asm_coding.elf 
+   text	   data	    bss	    dec	    hex	filename
+    680	      8	   1568	   2256	    8d0	ARM_GCC_inline_asm_coding.elf
+Finished building: default.size.stdout
+ 
+
+02:22:36 Build Finished. 0 errors, 0 warnings. (took 240ms)
+

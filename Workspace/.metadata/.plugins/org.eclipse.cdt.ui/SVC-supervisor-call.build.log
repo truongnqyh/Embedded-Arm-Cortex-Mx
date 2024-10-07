@@ -1,0 +1,10 @@
+17:11:55 **** Incremental Build of configuration Debug for project SVC-supervisor-call ****
+make -j8 all 
+arm-none-eabi-size   SVC-supervisor-call.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5040	    100	   1900	   7040	   1b80	SVC-supervisor-call.elf
+Finished building: default.size.stdout
+ 
+
+17:11:55 Build Finished. 0 errors, 0 warnings. (took 246ms)
+

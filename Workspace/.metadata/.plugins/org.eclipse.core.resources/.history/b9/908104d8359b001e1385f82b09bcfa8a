@@ -1,0 +1,21 @@
+/*
+ * main.h
+ *
+ *  Created on: Dec 15, 2023
+ *      Author: ADMIN
+ */
+
+#ifndef MAIN_H_
+#define MAIN_H_
+
+/* Systick clock */
+#define SYSTICK_TIM_CLK 16000000U
+
+/* Stack allocation */
+#define SRAM_END 0x3FFFFFFFU;
+#define T1_STACK_START
+#define T2_STACK_START
+#define T3_STACK_START
+#define T4_STACK_START
+#define SCHED_STACK_START
+#endif /* MAIN_H_ */

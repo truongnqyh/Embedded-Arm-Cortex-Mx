@@ -1,0 +1,4 @@
+../Src/main.c:29:6:configure_priority_preempt_sub	24	static
+../Src/main.c:37:5:main	24	static
+../Src/main.c:58:6:TIM2_IRQHandler	16	static
+../Src/main.c:66:6:I2C1_EV_IRQHandler	8	static

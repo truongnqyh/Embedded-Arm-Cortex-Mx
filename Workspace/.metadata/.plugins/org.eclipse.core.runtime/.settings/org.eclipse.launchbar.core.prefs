@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001HelloWorld,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ARM_GCC_inline_asm_coding,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Operation_modes,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:access_level,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:bit_banding,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:change_sp_tp_psp,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:uart_interrupt_pending,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Interrupt_priority,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:fault_handling_analysis,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SVC-supervisor-call Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SVC_operation,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:task_scheduler
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001HelloWorld/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001HelloWorld/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:change_sp_tp_psp/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:uart_interrupt_pending/activeLaunchMode=debug

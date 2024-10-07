@@ -1,0 +1,13 @@
+/*
+ * main.h
+ *
+ *  Created on: Dec 15, 2023
+ *      Author: ADMIN
+ */
+
+#ifndef MAIN_H_
+#define MAIN_H_
+
+#define SYSTICK_TIM_CLK 16000000U
+
+#endif /* MAIN_H_ */
